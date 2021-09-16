@@ -1,4 +1,4 @@
-<center> <font size="8"> <span style="color:black"> 小盒特别版学习Python指南 </span> </font></center>
+# 小盒特别版学习Python指南
 
 版本号: 1.0
 
