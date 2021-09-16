@@ -25,26 +25,6 @@
 * 不应用就会记不住用之Python进行数据分析应用
 
 ---
-该笔记根据lectures, homework, textbook, 以及一些英文网页教程来编写。以Topics的方式划分，且顺序为：**book -> lectures&websites -> homework**
-
-> **备注1：**
-> 1. 相对来说网页教程提供的内容相对简单且重复性较多，所以侧重点在于教科书和讲座内容。
-> 2. 根据实际情况，作业难度来增加额外的学习内容。
-
-> **备注2 - 与中文版教程的差异：**
-> 1. **本质上没有区别**，区别在于中文版笔记使用到了文本编辑器VSCode，但实质内容核心与英文版所使用的Python原版里面的**IDLE无差异**。
-> 2. 由于中文笔记先早于英文版的编写，在后期展示可能偏向于使用IDLE展示run后的编译代码（因为好看）。
-> 3. **Python IDLE**：
->   ![](image/2021-06-21-10-04-46.png)
-> 4. **VSCode的Python**：
->   ![](image/2021-06-21-10-09-33.png)
-> 5. VSCode和IDLE只能选择一个运行，需要取舍。
-
->**Q: 那我为啥还需要使用VSCode呀，如果本身Python IDLE可以满足我学Python的话。**
->
-> A: 功能更多，一个文本编辑器实现多中编程语言。
-
----
 ## 目录
 
 ### [Chpater 1](https://github.com/Littleshrimp07/Python_Littlebox/blob/main/Chapter%201%20%E7%9B%AE%E5%BD%95.md#chapter-1)
